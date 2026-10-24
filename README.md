@@ -149,7 +149,7 @@ These are preliminary software-simulation results, not proof of real-world perfo
 
 ## Project Team
 
-- **Samiksha Saravanan** — [@](https://github.com/)
+- **Samiksha Saravanan** — [@samikshasaravanan](https://github.com/samikshasaravanan)
 - **S B Daksha** — [@](https://github.com/)
 - **Diya S Kamath** — [@diyaskamath](https://github.com/diyaskamath)
 
