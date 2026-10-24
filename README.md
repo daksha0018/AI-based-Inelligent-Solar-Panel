@@ -149,9 +149,9 @@ These are preliminary software-simulation results, not proof of real-world perfo
 
 ## Project Team
 
-- Samiksha Saravanan 
-- S B Daksha
-- Diya S Kamath [@diyaskamath]
+- **Samiksha Saravanan** — [@](https://github.com/)
+- **S B Daksha** — [@](https://github.com/)
+- **Diya S Kamath** — [@diyaskamath](https://github.com/diyaskamath)
 
 **Department:** Electronics and Communication Engineering  
 **Institution:** Amrita Vishwa Vidyapeetham, Coimbatore
